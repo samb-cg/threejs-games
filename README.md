@@ -10,6 +10,8 @@ Play as a dinosaur and evade rocks as you make your way through a canyon.
 
 ## Evil birds WIP:
 A start of a first person game where you fight off hordes of evil mutated twitter birds.
+![evilbirds thumbnail](./evilbirds.jpg)
 
 ## Southpark WIP:
 Basic 3rd person template based on the cartoon-show Southpark.
+![southpark thumbnail](./southpark.jpg)
