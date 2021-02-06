@@ -6,6 +6,7 @@ Each game comes with the required three.js files so you can check each game indi
 
 ## Riverrun: 
 Play as a dinosaur and evade rocks as you make your way through a canyon.
+![riverrun thumbnail](./riverrun.jpg)
 
 ## Evil birds WIP:
 A start of a first person game where you fight off hordes of evil mutated twitter birds.
